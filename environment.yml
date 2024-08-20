@@ -1,0 +1,10 @@
+name: selected-gwls
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - matplotlib
+  - nbstripout
+  - numpy
+  - pandas
+  - scipy
